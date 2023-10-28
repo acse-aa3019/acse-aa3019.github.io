@@ -8,7 +8,7 @@ date: 2022-05-01
 location: "London, UK"
 ---
 
-This project was conducted as part of my final year project in my undergraduate BSc course.
+This project was conducted as part of my final year project in my undergraduate BSc course. It used deep learning (DL) alongside molecular dynamics (MD) to help analyse for a more accurate model to distinguish between various phases of water and ice in quasi-liquid layers (QLLs).
 
 Abstract
 ========
