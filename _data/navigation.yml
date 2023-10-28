@@ -2,22 +2,22 @@
 main:
 
   - title: "CV"
-    url: /talks/  
+    url: /cv/  
   
   # - title: "CV"
   #   url: /files/cv.pdf
     
   - title: "Notes"
-    url: /portfolio/
+    url: /notes/
 
   - title: "Blog"
     url: /year-archive/
 
   - title: "Projects"
-    url: /teaching/
+    url: /projects/
 
   - title: "About me"
-    url: /markdown/
+    url: /about-me/
     
   # - title: "Publications"
   #   url: /publications/  
